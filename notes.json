@@ -1,0 +1,9 @@
+[
+  { "title": "Shopping list", "body": "body added to the list" },
+  {
+    "title": "Basketball Players",
+    "body": "Kobe Bryant,LeBron James, Kyrie Irving"
+  },
+  { "title": "t", "body": "b" },
+  { "title": "New Note", "body": "This is the body of new note" }
+]
