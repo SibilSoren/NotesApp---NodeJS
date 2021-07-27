@@ -21,7 +21,7 @@ const removeNote = (title) => {
 const addNote = (title, body) => {
   const notesData = loadNotes();
 
-  const duplicateNotes = notesData.filter((note) => note.title === title);
+  // const duplicateNotes = notesData.filter((note) => note.title === title);
   const duplicateNote = notesData.find((note) => note.title === title);
 
   if (!duplicateNote) {
